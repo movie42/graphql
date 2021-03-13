@@ -22,3 +22,5 @@
     under-fetching : 어떤 어플을 실행 할 때, REST에서 DB요청을 여러번 하는 것(앱 실행이 완성 될 때 까지)
 
 ## 서버 만들기
+
+    query를 만들면 resolver로 풀어줘야 작동한다.
